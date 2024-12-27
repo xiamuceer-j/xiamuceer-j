@@ -4,34 +4,40 @@
 
 ## 🌌 MuMuの技术图鉴 | MuMu's Technical Compendium
 
-一名技术宇航员，专注于在代码星空中遨游，探索AI、云原生和前端的未知星球。
+**一名技术宇航员，专注于在代码星空中遨游，探索AI、云原生和前端的未知星球。**
+
+---
 
 ### 🚀 技术领域 | Tech Stack
 
-🌟 编程语言 | Languages
+#### 🌟 编程语言 | Languages
 
-├── Python [ 网络爬虫 | 自动化脚本 | Web开发 ]
+- **Python**  
+  - 网络爬虫 | 自动化脚本 | Web开发
 
-├── Java [ Android 开发 | 分布式系统 ]
+- **Java**  
+  - Android 开发 | 分布式系统
 
-├── JavaScript [ 前端开发 | Node.js ]
+- **JavaScript**  
+  - 前端开发 | Node.js
 
-└── Shell [ 运维管理 | 系统监控 ]
+- **Shell**  
+  - 运维管理 | 系统监控
 
-🛸 技术生态 | Ecosystem
+---
 
-├── 云原生 | Cloud Native [ Docker | Jenkins | Harbor ]
+#### 🛸 技术生态 | Ecosystem
 
-├── 人工智能 | AI [ ComfyUI | PyTorch | 机器学习 ]
+- **云原生 | Cloud Native**  
+  - Docker | Jenkins | Harbor
 
-└── Web开发 | Web Dev [ LayUI | Vue | Ajax  ]
+- **人工智能 | AI**  
+  - ComfyUI | PyTorch | 机器学习
 
+- **Web开发 | Web Dev**  
+  - LayUI | Vue | Ajax
 
-### 🌠 项目星图 | Project Constellation
-
-- 🌎 [Project Alpha] - 分布式系统监控平台
-- 🌍 [Project Beta]  - AI驱动的数据分析工具
-- 🌏 [Project Gamma] - 云原生应用开发框架
+---
 
 ### 🎯 探索目标 | Mission Objectives
 
@@ -40,22 +46,30 @@
 - 打破技术边界，打造创新解决方案
 - 持续探索前沿科技，跟随技术潮流
 
+---
+
 ### 📊 技术足迹 | Tech Footprints
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=xiamuceer-j&show_icons=true&theme=tokyonight" />
 </div>
 
+---
+
 ### 🌌 联系方式 | Contact
 
-- 📫 Email: xiamuceer@gmail.com
-- 🌐 Blog: https://www.mumu-blog.sbs
+- 📫 **Email**: [xiamuceer@gmail.com](mailto:xiamuceer@gmail.com)
+- 🌐 **Blog**: [https://www.mumu-blog.sbs](https://www.mumu-blog.sbs)
+
+---
 
 ### 🌟 座右铭 | Motto
 
-> 在技术的星海中航行，创新是我永不熄灭的引擎。
+> **在技术的星海中航行，创新是我永不熄灭的引擎。**
 
-> Sailing in the sea of technology, innovation is my ever-burning engine.
+> **Sailing in the sea of technology, innovation is my ever-burning engine.**
+
+---
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=xiamuceer-j&theme=nord&column=7" />
