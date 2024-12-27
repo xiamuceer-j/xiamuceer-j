@@ -16,9 +16,7 @@
 
 ├── JavaScript [ 前端开发 | Node.js ]
 
-├── Shell [ 运维管理 | 系统监控 ]
-
-└── Go [ 云原生 | 微服务 ]
+└── Shell [ 运维管理 | 系统监控 ]
 
 🛸 技术生态 | Ecosystem
 
