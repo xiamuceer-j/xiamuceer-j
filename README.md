@@ -59,7 +59,8 @@
 ### 🌌 联系方式 | Contact
 
 - 📫 **Email**: [xiamuceer@gmail.com](mailto:xiamuceer@gmail.com)
-- 🌐 **navigation**: [https://mumuverse.space/](https://mumuverse.space/)
+- 📢 **Blog**: [https://mumu-blog.sbs:3389/](https://mumu-blog.sbs:3389/)
+- 🌐 **Navigation**: [https://mumuverse.space/](https://mumuverse.space/)
 
 ---
 
