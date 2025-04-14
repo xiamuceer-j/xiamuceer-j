@@ -59,7 +59,7 @@
 ### 🌌 联系方式 | Contact
 
 - 📫 **Email**: [xiamuceer@gmail.com](mailto:xiamuceer@gmail.com)
-- 🌐 **Blog**: [https://www.mumu-blog.sbs:8672](https://www.mumu-blog.sbs:8672)
+- 🌐 **navigation**: [https://mumuverse.space/](https://mumuverse.space/)
 
 ---
 
