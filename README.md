@@ -60,7 +60,7 @@
 
 - 📫 **Email**: [xiamuceer@gmail.com](mailto:xiamuceer@gmail.com)
 - 📢 **Blog**: [https://mumu-blog.sbs:3389/](https://mumu-blog.sbs:3389/)
-- 🌐 **Navigation**: [https://mumuverse.space/](https://mumuverse.space/)
+- 🌐 **Navigation**: [www.mumuverse.space/](www.mumuverse.space/)
 
 ---
 
